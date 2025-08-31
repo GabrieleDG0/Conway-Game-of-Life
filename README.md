@@ -6,7 +6,7 @@ initial state and requires no further input. You interact with the Game of Life 
 
 **You can find a .exe file, inside the Release section of Github, if you want to try the project!**
 <p align="center">
-<img width="782" height="726" alt="image" src="https://github.com/user-attachments/assets/46386883-f83b-4566-a364-c5da744933b3" width="50" height="50"/>
+  <img width="551" height="520" alt="image" src="https://github.com/user-attachments/assets/d2c31507-1cbc-4c01-90ad-33db2eb2c66c" />
 </p>
 
 ## Rules
