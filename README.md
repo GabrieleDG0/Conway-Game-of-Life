@@ -5,6 +5,9 @@ Conway's Game of Life is a cellular automaton developed in 1970 by the mathemati
 initial state and requires no further input. You interact with the Game of Life by creating an initial configuration and observing how it evolves. 
 
 **You can find a .exe file, inside the Release section of Github, if you want to try the project, without needing to install Python, if you have a Windows system.**
+<p align="center">
+<img width="379" height="192" alt="image" src="https://github.com/user-attachments/assets/adb296d3-ff9d-4481-b60d-19ec2b5a8142" />
+</p>
 
 ## Rules
 The Game of Life is played on a grid of square cells. Each cell can be in one of two states: alive or dead. The state of each cell in the next generation is determined by the following rules:
@@ -28,6 +31,10 @@ Run the python file and use the following commands:
 
 #### Main loop
 Game loop: The main loop of the program controls the frame rate, checks for user input, updates the cell states and redraws the grid.
+
+<p align=center">
+  <img width="1024" height="924" alt="image" src="https://github.com/user-attachments/assets/cc870e86-0224-42e0-86af-946a8f6d1582" />
+</p>
 
 ## Applications and simulations
 Conway's Game of Life, while simple, has profound implications and applications in various fields:
