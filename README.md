@@ -6,7 +6,7 @@ initial state and requires no further input. You interact with the Game of Life 
 
 **You can find a .exe file, inside the Release section of Github, if you want to try the project!**
 <p align="center">
-  <img width="512" height="512" alt="Conway-GIF" src="[[https://miro.medium.com/v2/resize:fit:640/format:webp/1*6wS-kXlOCBsAJciygkJtDA.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fexperiments.withgoogle.com%2Fconway-game-of-life&psig=AOvVaw2pbXFu0XnaGk3EmKRK1Mx0&ust=1756729996747000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCMm62HtY8DFQAAAAAdAAAAABAE)](https://lh3.googleusercontent.com/C6HkzTZOrAtlLPkY6tHcUQMX1BoahTG_Gt4ueO_G0dV-J6dqSbT7ElD6Ddg_vg2cNI1D9cIBQMUNaPWIkPrqGVpbE9RY_9Q3Fn0k)" />
+  <img width="512" height="512" alt="Conway-GIF" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*6wS-kXlOCBsAJciygkJtDA.gif" />
 </p>
 
 
