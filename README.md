@@ -14,21 +14,6 @@ The Game of Life is played on a grid of square cells. Each cell can be in one of
 - Overpopulation: Every living cell with more than three living neighbours dies.
 - Reproduction: Every dead cell with exactly three living neighbours becomes a living cell.
 
-***Overview of the implementation***
-
-This implementation of Conway's Game of Life was created using Pygame, a popular library for creating games and multimedia applications in Python.
-
-## Setup and initialization
-1) Initialising Pygame: The Pygame library is initialised to process graphics and events.
-2) Colour definitions: The colours for the cells and gridlines are defined.
-3) Screen and grid dimensions: The dimensions of the screen and the size of the grid are defined to create a game field.
-
-#### Drawing the grid
-4) Drawing the grid: Functions are provided for drawing the grid lines and cells on the screen. Live cells are drawn as filled squares.
-
-#### Game logic
-5) Cell updates: Functions are provided to calculate the next state of the grid based on the current configuration of live and dead cells. This includes checking neighboring cells and applying the rules of the game.
-
 ## User interaction
 Run the python file and use the following commands:
 - Mouse interaction: Clicking on the grid toggles the state of the cells (alive or dead).
