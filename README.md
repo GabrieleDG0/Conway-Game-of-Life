@@ -33,6 +33,7 @@ Run the python file and use the following commands:
 #### Main loop
 Game loop: The main loop of the program controls the frame rate, checks for user input, updates the cell states and redraws the grid.
 
+## Still lifes, oscillators and spaceships
 <p align=center">
   <img width="1024" height="924" alt="image" src="https://github.com/user-attachments/assets/cc870e86-0224-42e0-86af-946a8f6d1582" />
 </p>
